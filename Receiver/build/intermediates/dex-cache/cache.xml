@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.2_e453ed42dbd1c6603b664e392c3459a2e97aba40.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.2_0cff8c0bed580572675a24c402d16f0195fac69a.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.0.2_e49ac6781d1b890b59f9380726dc72270ee1f983.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-beta1/support-annotations-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-beta1_1b7084a2975369a8813a4ce69061dd9ceb10a099.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_85c22d339fd5a6e5e827d1c7a82c6958f2e50948.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.0.2_121da506b437e91ebeb56b4072a7271088adf873.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0-beta1_602b9d169983bd103412d607f16f89bc8543d4f2.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.0.2_556dbfe9e51fc48b1f14c3e8ff0578ed753a9978.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.0.2_b2dce958f27a4a9a3646e93d513a861ec2d24ec6.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.0.2_6f907eaf476094987e6cb786bc0466824f2c3481.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.0.2_0cf5ecc74d1a989a3a0392da0f13336a3fef66d2.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.2_88fc9c951c758e3cab1da2d682e8c6e136748d05.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0-beta1_ba9273c9b8fb56a2759d7ed883479991a056f3d9.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.0.2_3f37a7c57855e57eece8170d8b769863ddde8d0a.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.0.2_8588ed46b258e9e6f0dac4b61305aac5e75372d5.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.2_f86bd717ae40b115aef6483eb40ef7fb33710830.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0-beta1_dfe58e2884ab93f9aac2beb8c3e44db4a7c17176.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.0.2_46df50500f969dfa020cb68c698da5b1dc1ac849.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.0.2_dbd56632b9172e3ce2c1f584279336a4e06636d4.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.0.2_417e27e4e4e23e57117e109c321f3550c88acb62.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_919ea3d7f1b3b17b4f4664e62a447bfd8c862fab.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.0.2_b360d18b1c5f7a0b195cc04cf1f4c9aa406f78b8.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.0.2_eeb255a720e2f3e2f486db974d69929f9ca7783b.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.0.2_8b2b10eab5ee2834faf49f741079ce87313f394a.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.2_3e473c0d4129170b15b1c520a0497558731e6a45.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.0.2_0f4063e2758f165e2c153e54bb76e0e82c943bd6.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.2_045eda2154ba7147813de5b24528b68ecab1852a.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.2_3c2d7334b95be0242cdfe2ab79adf75be6d95135.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.0.2_b62b17e0cca1ddec783d65a6c72668340691a112.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.0.2_63b43e2edf3e99df033866478df8e155ba76ff00.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.2_cda42daba27e715249da1efd5c3ab21c055ca129.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.0.2_d313608a6758e48cc73176353ddc024571c850c7.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.0.2_cbbc4f8b2de809b4d5c72ea29f02ff462b7af797.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.2_5fce2da495f2d1dd7e43a7cff584c1707288f3e9.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.0.2_0ca8b9c73870bde808e959a968295d0627a6d4a8.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.0.2_8afe4c06f20483edf94e815ebf4349ba20f9f45e.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.0.2_4aeb3a92a75c543376764856e6666b7d236b0e14.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.0.2_d572e0d6bb35803b87213e248e615049ebb36259.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.2_367c640ec70c134810a859f0b9602536ca3147eb.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.0.2_616089015244ce6ee50757036a799e23dfee114e.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.0.2_2820a8f9a14e1382b9795d6abf9777682b64659e.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.0.2_862334d8ba7901885fdf8d1d71fcdebcb6d938f3.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.0.2_d79f6e7173db55133755148ce9e971ebabde91af.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.0.2_beac9d17031c52ee6a3cde260c58fe9a648eb5d6.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.0.2_60696da5eb88afc0467caf9c21ee6c7c013cbc62.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.0.2_4c1afbf5976740967ef546c93c9c097f7b34847f.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.0.2_11b6ff02b1680d47e5efc1620b320e37c39a02b2.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0-beta1_019bbee7a291c8ffd65020a0cd11f5cb2a3726cd.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.2_de0c415c74930c58b52355468b0df75722b58723.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.0.2_43198c1f35f3735a26d9aae5d326e7638a5bc0e9.jar" />
+    </item>
+    <item
+        jar="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/libs/internal_impl-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="/Users/suryasdwivedi/Desktop/Receiver/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-beta1_55cff4bbde1fa2e7fd1152a95d6dd9ad9c5458ac.jar" />
+    </item>
+
+</items>
